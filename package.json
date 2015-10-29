@@ -1,0 +1,13 @@
+{
+	"name":"elk",
+	"main":"elk",
+	"version":"1.0.0",
+	"author":"Jason Marchioni <jay@planetspace.net",
+	"dependencies": {
+		"logly":"*",
+		"time":"*",
+		"named-regexp":"*",
+		"underscore.string":"*",
+		"serialport":"*"
+	}
+}
